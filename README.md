@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jeffery7jumman
-- 👀 I’m interested in softwares in general.
-- 🌱 I’m currently learning Software Engineering.
+- 👀 I’m interested in software in general.
+- 🌱 I’m currently expanding into Software automation.
 - 💞️ I’m looking to collaborate on matters software.
 - 📫 How to reach me jeffery7work@Gmail.com
 
